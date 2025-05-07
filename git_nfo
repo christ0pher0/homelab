@@ -9,4 +9,3 @@ git config --list
 git commit -m "reason"
 git diff filename 
 git push origin branchname
-gitt is shiz
