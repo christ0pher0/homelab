@@ -9,3 +9,9 @@ git config --list
 git commit -m "reason"
 git diff filename 
 git push origin branchname
+git log --oneline
+git revert #hash
+git clone
+git branch -M main
+git remote add origin git@github.com:christ0pher0/homelab.git
+git push origin main
